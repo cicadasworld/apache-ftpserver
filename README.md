@@ -1,4 +1,8 @@
 # apache-ftpserver
-参数设置主要在res/conf中
-设置用户名和密码的是users.properties
-设置服务器参数的是ftpd-typical.xml和ftpd-full.xml
+
+#服务器配置文件
+apache-ftpserver-1.1.1/res/conf/ftpd-typical.xml
+
+#用户信息配置文件
+apache-ftpserver-1.1.1/res/conf/users.properties
+
